@@ -1907,3 +1907,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.06.27-19.31.11:335][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.06.27-19.31.35:334][224]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.06.27-19.31.35:365][224]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.27-19.35.46:908][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.27-19.35.54:276][797]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tree_Leaves8)
+[2019.06.27-19.36.01:519][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.27-19.36.34:861][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.06.27-19.36.34:991][747]LogSavePackage: Moving 'C:/Users/14796/Documents/GitHub/ProjectNorthStar/ProjectNorthStar/Saved/DeveloperIsland_Auto57085A10A4118D3783BFB71B9270285A7.tmp' to 'C:/Users/14796/Documents/GitHub/ProjectNorthStar/ProjectNorthStar/Saved/Autosaves/Game/VirtualRealityBP/Maps/DeveloperIsland_Auto5.umap'
+[2019.06.27-19.36.34:995][747]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/DeveloperIsland' took 0.155
+[2019.06.27-19.36.34:995][747]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.155
